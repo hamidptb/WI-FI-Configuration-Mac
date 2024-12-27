@@ -253,7 +253,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"WifiConfigure/Preview Content\"";
-				DEVELOPMENT_TEAM = L6R9974RGK;
+				DEVELOPMENT_TEAM = S24M92Q6LT;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -262,6 +262,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 12.4;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.hamidptb.WifiConfigure;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -280,7 +281,7 @@
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"WifiConfigure/Preview Content\"";
-				DEVELOPMENT_TEAM = L6R9974RGK;
+				DEVELOPMENT_TEAM = S24M92Q6LT;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -289,6 +290,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MACOSX_DEPLOYMENT_TARGET = 12.4;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.hamidptb.WifiConfigure;
 				PRODUCT_NAME = "$(TARGET_NAME)";
